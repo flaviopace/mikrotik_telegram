@@ -1,11 +1,5 @@
 {
     "wowh24_bot_config": {
-        "token_id": "8091893911:AAF_g0tg_4IDIUPoKt7nIvTliJhgBl8JgA",
-        "channel_id": "-5821829368"
-    },
-    "mikrotik_login": {
-        "ip": "190.20.0.1",
-        "username": "improved",
-        "password": "improved large import file handling, error detection and"
+        
     }
 }
